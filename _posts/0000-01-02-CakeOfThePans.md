@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Idk
+"If you know the enemy and know yourself you need not fear the results of a hundred battles" - Sun Tzu
 
 Use the left arrow to go back!
